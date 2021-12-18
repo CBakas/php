@@ -1,1 +1,2 @@
 this is a initiale state for file2.txt
+this is a new second line 
